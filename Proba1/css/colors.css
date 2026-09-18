@@ -1,4 +1,4 @@
-.celaPati{
+#celaPati{
     justify-content: center;
     background-color: black;
     color: white;
@@ -7,5 +7,24 @@
 .celaWeb {
     background-color: blueviolet;
     color: whitesmoke;
+}
 
+.celaProgra {
+    background-color: rgb(246, 65, 24);
+    color: whitesmoke;
+}
+
+.celaSis {
+    background-color: rgb(43, 113, 226);
+    color: whitesmoke;
+}
+
+.celaBBDD {
+    background-color: rgb(17, 196, 8);
+    color: whitesmoke;
+}
+
+.celaIPO {
+    background-color: rgb(84, 9, 19);
+    color: whitesmoke;
 }
