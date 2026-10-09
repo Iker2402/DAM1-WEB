@@ -1,0 +1,21 @@
+*  {
+    margin: 0;
+    padding: 0;
+
+
+    text-decoration: none;
+    list-style: none;
+}
+
+.textCelas   {
+    justify-content: center;
+    text-align: center;
+    
+}
+
+img {
+    width: 5em;
+    height: 5em;
+    border: 5px solid;
+    padding: 5em;
+}
