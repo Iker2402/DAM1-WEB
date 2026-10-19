@@ -1,0 +1,23 @@
+*  {
+    background-color: rgb(61, 61, 255);
+}
+
+a:visited{
+    color: rgb(42, 165, 83);
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    background-color: blueviolet;
+}
+
+span:active {
+    background-color: yellow;
+}
+
+p:first-child {
+    background-color: aqua;
+}
